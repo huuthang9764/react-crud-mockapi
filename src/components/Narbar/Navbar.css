@@ -1,0 +1,18 @@
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+.navbar .navbar-brand{
+    font-size: 36px;
+}
+.navbar-nav{
+    margin-left: 30px;
+    font-size: 24px;
+}
+.navbar-nav li{
+    margin-right: 30px;
+}
+.fs-16{
+    font-size: 16px;
+}
